@@ -1,0 +1,889 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\viewmodels\\memberregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\viewmodels\\memberregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\viewmodels\\memberloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\viewmodels\\memberloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\controllers\\designcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\controllers\\designcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\views\\design\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\views\\design\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\areas\\admin\\controllers\\furniturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\areas\\admin\\controllers\\furniturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\viewmodels\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\viewmodels\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5FB0B5-201A-49FC-9005-770636E44DCC}|Fiu.Data\\Fiu.Data.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5FB0B5-201A-49FC-9005-770636E44DCC}|Fiu.Data\\Fiu.Data.csproj|solutionrelative:fiu.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D5216F-7F01-48D4-BC76-7D48D02A48C2}|Fiu.Core\\Fiu.Core.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D5216F-7F01-48D4-BC76-7D48D02A48C2}|Fiu.Core\\Fiu.Core.csproj|solutionrelative:fiu.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1DAA15-74D7-4D69-9205-014C60E67D9E}|Fiu.Business\\Fiu.Business.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu.business\\services\\concretes\\furnitureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1DAA15-74D7-4D69-9205-014C60E67D9E}|Fiu.Business\\Fiu.Business.csproj|solutionrelative:fiu.business\\services\\concretes\\furnitureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1DAA15-74D7-4D69-9205-014C60E67D9E}|Fiu.Business\\Fiu.Business.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu.business\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1DAA15-74D7-4D69-9205-014C60E67D9E}|Fiu.Business\\Fiu.Business.csproj|solutionrelative:fiu.business\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\areas\\admin\\views\\furniture\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\areas\\admin\\views\\furniture\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\areas\\admin\\views\\furniture\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\areas\\admin\\views\\furniture\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\areas\\admin\\views\\furniture\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\areas\\admin\\views\\furniture\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\areas\\admin\\views\\furniture\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\areas\\admin\\views\\furniture\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1DAA15-74D7-4D69-9205-014C60E67D9E}|Fiu.Business\\Fiu.Business.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu.business\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1DAA15-74D7-4D69-9205-014C60E67D9E}|Fiu.Business\\Fiu.Business.csproj|solutionrelative:fiu.business\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1DAA15-74D7-4D69-9205-014C60E67D9E}|Fiu.Business\\Fiu.Business.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu.business\\exceptions\\imagefileexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1DAA15-74D7-4D69-9205-014C60E67D9E}|Fiu.Business\\Fiu.Business.csproj|solutionrelative:fiu.business\\exceptions\\imagefileexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1DAA15-74D7-4D69-9205-014C60E67D9E}|Fiu.Business\\Fiu.Business.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu.business\\fiu.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B1DAA15-74D7-4D69-9205-014C60E67D9E}|Fiu.Business\\Fiu.Business.csproj|solutionrelative:fiu.business\\fiu.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1DAA15-74D7-4D69-9205-014C60E67D9E}|Fiu.Business\\Fiu.Business.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu.business\\exceptions\\fileenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1DAA15-74D7-4D69-9205-014C60E67D9E}|Fiu.Business\\Fiu.Business.csproj|solutionrelative:fiu.business\\exceptions\\fileenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1DAA15-74D7-4D69-9205-014C60E67D9E}|Fiu.Business\\Fiu.Business.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu.business\\exceptions\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1DAA15-74D7-4D69-9205-014C60E67D9E}|Fiu.Business\\Fiu.Business.csproj|solutionrelative:fiu.business\\exceptions\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1DAA15-74D7-4D69-9205-014C60E67D9E}|Fiu.Business\\Fiu.Business.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu.business\\exceptions\\filecontenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1DAA15-74D7-4D69-9205-014C60E67D9E}|Fiu.Business\\Fiu.Business.csproj|solutionrelative:fiu.business\\exceptions\\filecontenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1DAA15-74D7-4D69-9205-014C60E67D9E}|Fiu.Business\\Fiu.Business.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu.business\\services\\abstracts\\ifurnitureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1DAA15-74D7-4D69-9205-014C60E67D9E}|Fiu.Business\\Fiu.Business.csproj|solutionrelative:fiu.business\\services\\abstracts\\ifurnitureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5FB0B5-201A-49FC-9005-770636E44DCC}|Fiu.Data\\Fiu.Data.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu.data\\migrations\\20240525211920_createfurniturestables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5FB0B5-201A-49FC-9005-770636E44DCC}|Fiu.Data\\Fiu.Data.csproj|solutionrelative:fiu.data\\migrations\\20240525211920_createfurniturestables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5FB0B5-201A-49FC-9005-770636E44DCC}|Fiu.Data\\Fiu.Data.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu.data\\repositoryconcretes\\furniturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5FB0B5-201A-49FC-9005-770636E44DCC}|Fiu.Data\\Fiu.Data.csproj|solutionrelative:fiu.data\\repositoryconcretes\\furniturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5FB0B5-201A-49FC-9005-770636E44DCC}|Fiu.Data\\Fiu.Data.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5FB0B5-201A-49FC-9005-770636E44DCC}|Fiu.Data\\Fiu.Data.csproj|solutionrelative:fiu.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D5216F-7F01-48D4-BC76-7D48D02A48C2}|Fiu.Core\\Fiu.Core.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D5216F-7F01-48D4-BC76-7D48D02A48C2}|Fiu.Core\\Fiu.Core.csproj|solutionrelative:fiu.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D5216F-7F01-48D4-BC76-7D48D02A48C2}|Fiu.Core\\Fiu.Core.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu.core\\repositoryabstracts\\ifurniturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D5216F-7F01-48D4-BC76-7D48D02A48C2}|Fiu.Core\\Fiu.Core.csproj|solutionrelative:fiu.core\\repositoryabstracts\\ifurniturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D5216F-7F01-48D4-BC76-7D48D02A48C2}|Fiu.Core\\Fiu.Core.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu.core\\models\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D5216F-7F01-48D4-BC76-7D48D02A48C2}|Fiu.Core\\Fiu.Core.csproj|solutionrelative:fiu.core\\models\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D5216F-7F01-48D4-BC76-7D48D02A48C2}|Fiu.Core\\Fiu.Core.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D5216F-7F01-48D4-BC76-7D48D02A48C2}|Fiu.Core\\Fiu.Core.csproj|solutionrelative:fiu.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6BDD1B0-82EE-4C7D-A46A-52EF2AD5D095}|Fiu\\Fiu.csproj|solutionrelative:fiu\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5FB0B5-201A-49FC-9005-770636E44DCC}|Fiu.Data\\Fiu.Data.csproj|c:\\users\\sirac huseynov\\desktop\\fiumvc\\fiu\\fiu.data\\migrations\\20240525222727_createuserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5FB0B5-201A-49FC-9005-770636E44DCC}|Fiu.Data\\Fiu.Data.csproj|solutionrelative:fiu.data\\migrations\\20240525222727_createuserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Fiu\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Fiu\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:40:30.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Fiu\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Fiu\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC0AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:29:47.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Fiu\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Fiu\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:29:37.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemberLoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\ViewModels\\MemberLoginVm.cs",
+              "RelativeDocumentMoniker": "Fiu\\ViewModels\\MemberLoginVm.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\ViewModels\\MemberLoginVm.cs",
+              "RelativeToolTip": "Fiu\\ViewModels\\MemberLoginVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:22:03.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemberRegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\ViewModels\\MemberRegisterVm.cs",
+              "RelativeDocumentMoniker": "Fiu\\ViewModels\\MemberRegisterVm.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\ViewModels\\MemberRegisterVm.cs",
+              "RelativeToolTip": "Fiu\\ViewModels\\MemberRegisterVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:20:39.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Program.cs",
+              "RelativeDocumentMoniker": "Fiu\\Program.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Program.cs",
+              "RelativeToolTip": "Fiu\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:16:28.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Fiu\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Fiu\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAACrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T20:53:03.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Fiu\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Fiu\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAcwEcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T21:38:50.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fiu\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "Fiu\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T20:58:11.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fiu\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Fiu\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAswJQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T20:52:57.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Fiu\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Fiu\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T22:22:03.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Fiu\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Fiu\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAowFIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T22:21:47.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Fiu\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Fiu\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wBIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:52:35.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Views\\Design\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fiu\\Views\\Design\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Views\\Design\\Index.cshtml",
+              "RelativeToolTip": "Fiu\\Views\\Design\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T20:59:55.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Fiu\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Fiu\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:57:59.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DesignController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Controllers\\DesignController.cs",
+              "RelativeDocumentMoniker": "Fiu\\Controllers\\DesignController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Controllers\\DesignController.cs",
+              "RelativeToolTip": "Fiu\\Controllers\\DesignController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:59:50.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Fiu\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Fiu\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:38:23.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Fiu.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Fiu.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:12:10.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FurnitureController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Controllers\\FurnitureController.cs",
+              "RelativeDocumentMoniker": "Fiu\\Areas\\Admin\\Controllers\\FurnitureController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Controllers\\FurnitureController.cs",
+              "RelativeToolTip": "Fiu\\Areas\\Admin\\Controllers\\FurnitureController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:44:00.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Views\\Furniture\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fiu\\Areas\\Admin\\Views\\Furniture\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Views\\Furniture\\Index.cshtml",
+              "RelativeToolTip": "Fiu\\Areas\\Admin\\Views\\Furniture\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T21:44:11.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Views\\Furniture\\Create.cshtml",
+              "RelativeDocumentMoniker": "Fiu\\Areas\\Admin\\Views\\Furniture\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Views\\Furniture\\Create.cshtml",
+              "RelativeToolTip": "Fiu\\Areas\\Admin\\Views\\Furniture\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T21:50:25.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Views\\Furniture\\Update.cshtml",
+              "RelativeDocumentMoniker": "Fiu\\Areas\\Admin\\Views\\Furniture\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Views\\Furniture\\Update.cshtml",
+              "RelativeToolTip": "Fiu\\Areas\\Admin\\Views\\Furniture\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T21:56:26.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Views\\Furniture\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Fiu\\Areas\\Admin\\Views\\Furniture\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Views\\Furniture\\Delete.cshtml",
+              "RelativeToolTip": "Fiu\\Areas\\Admin\\Views\\Furniture\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T21:59:47.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20240525222727_CreateUsersTable.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Data\\Migrations\\20240525222727_CreateUsersTable.cs",
+              "RelativeDocumentMoniker": "Fiu.Data\\Migrations\\20240525222727_CreateUsersTable.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Data\\Migrations\\20240525222727_CreateUsersTable.cs",
+              "RelativeToolTip": "Fiu.Data\\Migrations\\20240525222727_CreateUsersTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T22:27:27.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminLoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\ViewModels\\AdminLoginVm.cs",
+              "RelativeDocumentMoniker": "Fiu\\ViewModels\\AdminLoginVm.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\ViewModels\\AdminLoginVm.cs",
+              "RelativeToolTip": "Fiu\\ViewModels\\AdminLoginVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T22:30:25.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Core\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Fiu.Core\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Core\\Models\\AppUser.cs",
+              "RelativeToolTip": "Fiu.Core\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T22:25:03.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fiu\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Fiu\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAANMAAAAAAAAAAAAcwOQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T21:38:39.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FurnitureService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Business\\Services\\Concretes\\FurnitureService.cs",
+              "RelativeDocumentMoniker": "Fiu.Business\\Services\\Concretes\\FurnitureService.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Business\\Services\\Concretes\\FurnitureService.cs",
+              "RelativeToolTip": "Fiu.Business\\Services\\Concretes\\FurnitureService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA5wEgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:22:19.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Business\\Extensions\\Helper.cs",
+              "RelativeDocumentMoniker": "Fiu.Business\\Extensions\\Helper.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Business\\Extensions\\Helper.cs",
+              "RelativeToolTip": "Fiu.Business\\Extensions\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:22:39.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Fiu\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Fiu\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T21:39:07.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Fiu\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Fiu\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T21:38:59.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Fiu\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Fiu\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-25T21:36:33.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Business\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "Fiu.Business\\Exceptions\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Business\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "Fiu.Business\\Exceptions\\EntityNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:31:46.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Fiu\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Fiu\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T20:53:11.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ImageFileException.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Business\\Exceptions\\ImageFileException.cs",
+              "RelativeDocumentMoniker": "Fiu.Business\\Exceptions\\ImageFileException.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Business\\Exceptions\\ImageFileException.cs",
+              "RelativeToolTip": "Fiu.Business\\Exceptions\\ImageFileException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:29:40.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Fiu.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Business\\Fiu.Business.csproj",
+              "RelativeDocumentMoniker": "Fiu.Business\\Fiu.Business.csproj",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Business\\Fiu.Business.csproj",
+              "RelativeToolTip": "Fiu.Business\\Fiu.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T21:27:34.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FileeNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Business\\Exceptions\\FileeNotFoundException.cs",
+              "RelativeDocumentMoniker": "Fiu.Business\\Exceptions\\FileeNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Business\\Exceptions\\FileeNotFoundException.cs",
+              "RelativeToolTip": "Fiu.Business\\Exceptions\\FileeNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:27:00.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FileSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Business\\Exceptions\\FileSizeException.cs",
+              "RelativeDocumentMoniker": "Fiu.Business\\Exceptions\\FileSizeException.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Business\\Exceptions\\FileSizeException.cs",
+              "RelativeToolTip": "Fiu.Business\\Exceptions\\FileSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:24:29.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FileContentTypeException.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Business\\Exceptions\\FileContentTypeException.cs",
+              "RelativeDocumentMoniker": "Fiu.Business\\Exceptions\\FileContentTypeException.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Business\\Exceptions\\FileContentTypeException.cs",
+              "RelativeToolTip": "Fiu.Business\\Exceptions\\FileContentTypeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:23:30.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IFurnitureService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Business\\Services\\Abstracts\\IFurnitureService.cs",
+              "RelativeDocumentMoniker": "Fiu.Business\\Services\\Abstracts\\IFurnitureService.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Business\\Services\\Abstracts\\IFurnitureService.cs",
+              "RelativeToolTip": "Fiu.Business\\Services\\Abstracts\\IFurnitureService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:20:26.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240525211920_CreateFurnituresTables.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Data\\Migrations\\20240525211920_CreateFurnituresTables.cs",
+              "RelativeDocumentMoniker": "Fiu.Data\\Migrations\\20240525211920_CreateFurnituresTables.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Data\\Migrations\\20240525211920_CreateFurnituresTables.cs",
+              "RelativeToolTip": "Fiu.Data\\Migrations\\20240525211920_CreateFurnituresTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:19:21.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\appsettings.json",
+              "RelativeDocumentMoniker": "Fiu\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\appsettings.json",
+              "RelativeToolTip": "Fiu\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T20:55:45.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FurnitureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Data\\RepositoryConcretes\\FurnitureRepository.cs",
+              "RelativeDocumentMoniker": "Fiu.Data\\RepositoryConcretes\\FurnitureRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Data\\RepositoryConcretes\\FurnitureRepository.cs",
+              "RelativeToolTip": "Fiu.Data\\RepositoryConcretes\\FurnitureRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:16:02.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Fiu.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "Fiu.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwDMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:13:11.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IFurnitureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Core\\RepositoryAbstracts\\IFurnitureRepository.cs",
+              "RelativeDocumentMoniker": "Fiu.Core\\RepositoryAbstracts\\IFurnitureRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Core\\RepositoryAbstracts\\IFurnitureRepository.cs",
+              "RelativeToolTip": "Fiu.Core\\RepositoryAbstracts\\IFurnitureRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:10:01.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Fiu.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Fiu.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:08:44.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Furniture.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Core\\Models\\Furniture.cs",
+              "RelativeDocumentMoniker": "Fiu.Core\\Models\\Furniture.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Core\\Models\\Furniture.cs",
+              "RelativeToolTip": "Fiu.Core\\Models\\Furniture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:05:52.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Fiu.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Fiu.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:05:32.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fiu\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Fiu\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T21:02:29.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Fiu\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Fiu\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:02:24.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fiu\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "Fiu\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T21:01:08.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Fiu\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Fiu\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:01:04.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Fiu\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\FiuMVC\\Fiu\\Fiu\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Fiu\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T20:53:10.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
